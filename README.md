@@ -14,4 +14,4 @@ A process for biometric identification using iris and fingerprint features fusio
 * Mathing using MSE and SD, for this call matching and pass recovered feature vector and test feature vector
 * If matched we count the no of matches using MSE and SD
 * Calculate the GRR and FRR from count
-Same process goesfor 4x4 and 16x16 just call feature extraction 4x4 and feature extraction 16x16 method.
+Same process goes for 4x4 and 16x16 just call feature extraction 4x4 and feature extraction 16x16 method.
